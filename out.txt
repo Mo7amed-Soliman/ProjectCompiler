@@ -1,0 +1,22 @@
+Declaring variable: x
+UMINUS: 8 = -8
+SUBTRACTION: -8 - 5 = -13
+Declaring and Initializing y to -13
+LOGICAL NOT: 5 = 0
+Assigning value: 0 to x
+LOGICAL NOT: 0 = 1
+Print: 1
+ADDITION: 2 + 10 = 12
+MULTIPLICATION: 0 * 12 = 0
+Assigning value: 0 to x
+Print: 0
+OR: 0 || 0 = 0
+Assigning value: 0 to y
+Print: 0
+GREATER THAN: 5 > 6 = 0
+Condition evaluated to: 0
+If statement is false
+LESS THAN: 4 < 9 = 1
+OR: 1 || 2 = 1
+Condition evaluated to: 0
+If statement is false => else
